@@ -34,7 +34,7 @@ class Convert{
 class Conversion{
 	public static void main(String az[]){
 
-		Convert z = new Convert();
+		Convert z = new Convert(); //hi this is a comment
 		
 		System.out.println("Binary number:" + z.sick(25));
 		System.out.println("Decimal number: " + z.hmmm("11001"));
